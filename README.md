@@ -1,2 +1,3 @@
 # hello-world
-my trining project
+my trainig project.
+New line of text.
